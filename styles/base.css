@@ -1,0 +1,99 @@
+
+
+* {
+    font-family: 'Raleway', sans-serif;
+    max-width: 700px;
+    margin: auto;
+}
+
+body {
+    padding: 5%;
+}
+
+.main-header {
+    background-color: rgba(0, 0, 0, .6);
+    background-image: url("../images/byui.jpg");
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-position: 0;
+    text-align: center;
+
+}
+
+.course-name {
+    text-align: center;
+    margin: 0;
+    font-size: 3em;
+    font-weight: normal;
+    color: white;
+    padding-top: 2.5%;
+}
+
+.course-name2 {
+    text-align: center;
+    margin: 0;
+    font-size: 3em;
+    font-weight: normal;
+    color: white;
+    padding-bottom: 4%;
+}
+
+.profile {
+
+    height: 8em;
+    width: 9em;
+    border-radius: 50%;
+    padding: 5%;
+    
+}
+
+.main-nav {
+    font-size: larger;
+    margin: 0;
+}
+
+.main-nav ul li {
+    padding-bottom: .5em;    
+}
+
+a {
+    color: black
+}
+
+.divider {
+    border-bottom: 1px solid black;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+}
+
+footer {
+    display: block;
+}
+
+.main-footer {
+    background-color: rgba(0, 0, 0, .6);
+    background-image: url("../images/byui.jpg");
+    background-blend-mode: multiply;
+    background-position: 0;
+    box-shadow: 10px 10px 5px gray;
+
+}
+
+.footer-info {
+    text-align: center;
+    font-size: 1em;
+    font-weight: normal;
+    color: white;
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
+
+.padding {
+    margin-top: 1em;
+    padding-bottom: 10%;
+}
+
+.bottom {
+    margin-bottom: 1em;
+    padding: 5%;
+}
